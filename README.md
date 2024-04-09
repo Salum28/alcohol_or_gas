@@ -1,16 +1,16 @@
-# alcohol_or_gas
+# Alcohol Or Gas App
 
-Aplicativo 3 - Álcool ou Gasolina
+The following project was made in a Flutter course i made, and the main goals of this app were:
 
-## Getting Started
+* Learn how to work with toasts using fluttertoast package;
+* Learn how to work with text fields and validations;
 
-This project is a starting point for a Flutter application.
+Also, one of the app's goals was to pratice layout creation and customization.
+## How the App Works
 
-A few resources to get you started if this is your first Flutter project:
+When you inicialize the app, you will see two text fields, one for the alcohol price and other for the gas price. When you fill both of them and click the button, a calculation will be made to compare them and the result will be shown in your screen.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+If the result is greater than 7, Alcohol is better than gas, otherwise, Gas is better.
+## Author
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [@Salum28](https://github.com/Salum28)
